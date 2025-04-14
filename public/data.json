@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Vintage Leather Wallet",
+        "description": "Handcrafted vintage leather wallet made from genuine cowhide.",
+        "currentBidPrice": 1350,
+        "timeLeft": "2 Days left",
+        "bidsCount": 8,
+        "image": "https://i.ibb.co.com/LzKK2jzs/wallet-494169-1280.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Wireless Bluetooth Headphones",
+        "description": "Noise-canceling over-ear headphones with up to 30 hours of battery life.",
+        "currentBidPrice": 7809,
+        "timeLeft": "3 Days left",
+        "bidsCount": 15,
+        "image": "https://i.ibb.co.com/v4dWRvmQ/audio-1840073-1280.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Antique Wooden Clock",
+        "description": "Classic 19th-century handcrafted wooden clock in excellent condition.",
+        "currentBidPrice": 1200,
+        "timeLeft": "1 Days left",
+        "bidsCount": 5,
+        "image": "https://i.ibb.co.com/KxpXptvy/clock-5084284-1280.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Gaming Mouse RGB",
+        "description": "High-performance gaming mouse with customizable RGB lighting.",
+        "currentBidPrice": 1295,
+        "timeLeft": "2 Days left",
+        "bidsCount": 22,
+        "image": "https://i.ibb.co.com/60YJRynY/Gaming-Mouse.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Mountain Bike Helmet",
+        "description": "Lightweight, impact-resistant helmet suitable for trail biking.",
+        "currentBidPrice": 5450,
+        "timeLeft": "4 Days left",
+        "bidsCount": 10,
+        "image": "https://i.ibb.co.com/84mvtZ3c/Mountain-Bike-Helmet.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Smartwatch Series 6",
+        "description": "Water-resistant smartwatch with fitness tracking and heart rate monitor.",
+        "currentBidPrice": 15099,
+        "timeLeft": "5 Days left",
+        "bidsCount": 17,
+        "image": "https://i.ibb.co.com/Swk9fRCR/download.jpg"
+    }
+]
